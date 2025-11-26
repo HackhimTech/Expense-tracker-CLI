@@ -68,10 +68,7 @@ Run the CLI via node:
 - File: [db.json](db.json) at project root
 - New DB created automatically on first run by [repository/expenseRepo.js](repository/expenseRepo.js)
 
+## Project link
 
-
-
-
-
-
-
+I got inspiration from roadmap.sh
+https://roadmap.sh/projects/expense-tracker
