@@ -1,0 +1,19 @@
+{
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@json2csv/plainjs": "^7.0.6",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "figlet": "^1.9.4"
+  }
+}

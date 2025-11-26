@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Date": "2025-11-26",
+    "description": "Lunch",
+    "amount": "$20"
+  },
+  {
+    "id": 2,
+    "Date": "2025-10-16",
+    "description": "Dinner",
+    "amount": "$15"
+  },
+  {
+    "id": 3,
+    "Date": "2025-10-26",
+    "description": "Clothes",
+    "amount": "$2"
+  },
+  {
+    "id": 4,
+    "Date": "2025-08-26",
+    "description": "Go home late",
+    "amount": "$100"
+  },
+  {
+    "id": 5,
+    "Date": "2025-06-16",
+    "description": "Event",
+    "amount": "$75"
+  }
+]
